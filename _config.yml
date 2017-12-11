@@ -1,7 +1,4 @@
 theme: jekyll-theme-slate
-defaults:
-  - 
-    scope:
-      path: "README.md"
-    values:
-      permalink: "README.html"
+readme_index:
+  enabled:          true
+  remove_originals: false
